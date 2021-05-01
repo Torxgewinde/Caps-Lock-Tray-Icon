@@ -87,4 +87,5 @@ While True
    EndIf
 
    Sleep(100)
+   $FirstRun = False
 WEnd
